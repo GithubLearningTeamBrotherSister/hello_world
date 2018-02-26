@@ -1,0 +1,1 @@
+如果在ivy_hello_world_version branch中的第二个commit点打开这个文档，看到这个短话时表明工作流程是正确的。如果在master中看到此文档，表明工作流程不正确了，但是如果存在merge动作，这一条不成立。
